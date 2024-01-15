@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+recurse
+tribonacci
+plusminus
+
+tests/*actual*.txt
+tests/*diff*.txt
